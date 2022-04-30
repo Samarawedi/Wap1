@@ -1,14 +1,14 @@
 /*This is a basic style for abput me page*/
 body{
-    background-color: beige;
+    background-color:cadetblue;
 }
 .bio{
-    color: midnightblue;
+    color:brown;
     text-decoration: underline;
     font-weight: bold;
 }
 h3{
-    color: cornflowerblue;
+    color:chartreuse;
 }
 span{
     font-style: italic;
