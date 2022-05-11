@@ -1,0 +1,37 @@
+h1, h2 {
+	text-align: center;
+}
+
+body{
+    background-color:lightgray;
+}
+
+p {
+	width: 600px;
+	margin: 1em auto;
+}
+
+#maze {
+	margin: auto;
+	position: relative;
+	height: 300px;
+	width: 500px;
+}
+
+#start, #end {
+	position: absolute;
+	top: 205px;
+	height: 30px;
+	width: 30px;
+	border: 1px solid black;
+	padding: 5px;
+	cursor: default;
+	font-family: "Helvetica", "Arial", sans-serif;
+	font-size: 25pt;
+	text-align: center;
+}
+
+#maze #start {
+	background-color: #88ff88;
+	left: 0;
+}
